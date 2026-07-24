@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
