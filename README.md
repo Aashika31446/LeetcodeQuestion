@@ -40,9 +40,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
