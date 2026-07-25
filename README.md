@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3536-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0371-sum-of-two-integers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
