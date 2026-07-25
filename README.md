@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0001-two-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
