@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0344-reverse-string) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Binary Search
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
