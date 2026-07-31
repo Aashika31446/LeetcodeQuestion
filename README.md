@@ -116,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
