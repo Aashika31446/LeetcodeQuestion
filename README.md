@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0567-permutation-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3501-maximize-active-section-with-trade-ii) |
@@ -89,10 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0567-permutation-in-string) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0001-two-sum) |
+| [0567-permutation-in-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
@@ -150,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1406-stone-game-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
