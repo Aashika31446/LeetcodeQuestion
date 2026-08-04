@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
 | [1791-find-center-of-star-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1971-find-if-path-exists-in-graph) |
 ## Dynamic Programming
@@ -164,13 +165,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
