@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -44,11 +45,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0628-maximum-product-of-three-numbers) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -59,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 ## Math
 |  |
 | ------- |
@@ -97,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0001-two-sum) |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0567-permutation-in-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -116,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -185,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
