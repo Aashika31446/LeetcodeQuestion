@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1406-stone-game-iii) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
@@ -256,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
