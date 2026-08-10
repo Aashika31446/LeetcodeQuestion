@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0075-sort-colors](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0075-sort-colors) |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 | [0486-predict-the-winner](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0486-predict-the-winner) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0342-power-of-four) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
@@ -235,9 +238,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0509-fibonacci-number) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
