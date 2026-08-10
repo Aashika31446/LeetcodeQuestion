@@ -10,7 +10,6 @@ public:
                         isprime[j]=false;
                     }
             }
-
         }
         return count;
 
