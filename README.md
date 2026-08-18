@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1563-stone-game-v) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
 | [1791-find-center-of-star-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3310-remove-methods-from-project) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -313,4 +316,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
