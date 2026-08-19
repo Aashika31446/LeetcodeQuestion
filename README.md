@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1140-stone-game-ii) |
+| [1386-cinema-seat-allocation](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1406-stone-game-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1563-stone-game-v) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0371-sum-of-two-integers) |
+| [1386-cinema-seat-allocation](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1386-cinema-seat-allocation) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0001-two-sum) |
 | [0347-top-k-frequent-elements](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0347-top-k-frequent-elements) |
 | [0567-permutation-in-string](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/0567-permutation-in-string) |
+| [1386-cinema-seat-allocation](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1386-cinema-seat-allocation](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Aashika31446/LeetcodeQuestion/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
